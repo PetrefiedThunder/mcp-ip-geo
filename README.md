@@ -46,4 +46,4 @@ npx mcp-ip-geo
 
 ## License
 
-MIT
+Apache-2.0
